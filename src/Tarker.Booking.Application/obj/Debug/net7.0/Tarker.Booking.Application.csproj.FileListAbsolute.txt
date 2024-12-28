@@ -1,0 +1,34 @@
+C:\Users\USUARIO\Documents\Repo\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net7.0\Tarker.Booking.Application.deps.json
+C:\Users\USUARIO\Documents\Repo\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net7.0\Tarker.Booking.Application.dll
+C:\Users\USUARIO\Documents\Repo\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net7.0\Tarker.Booking.Application.pdb
+C:\Users\USUARIO\Documents\Repo\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net7.0\Tarker.Booking.Domain.dll
+C:\Users\USUARIO\Documents\Repo\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net7.0\Tarker.Booking.Domain.pdb
+C:\Users\USUARIO\Documents\Repo\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\Tarker.Booking.Application.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Documents\Repo\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\Tarker.Booking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\Repo\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\Tarker.Booking.Application.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\Repo\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\Tarker.Booking.Application.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\Repo\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\Tarker.Booking.Application.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\Repo\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\Tarker.Booking.Application.csproj.CopyComplete
+C:\Users\USUARIO\Documents\Repo\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\Tarker.Booking.Application.dll
+C:\Users\USUARIO\Documents\Repo\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\refint\Tarker.Booking.Application.dll
+C:\Users\USUARIO\Documents\Repo\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\Tarker.Booking.Application.pdb
+C:\Users\USUARIO\Documents\Repo\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\ref\Tarker.Booking.Application.dll
+C:\Users\USUARIO\Documents\Repo\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net7.0\Tarker.Booking.Common.dll
+C:\Users\USUARIO\Documents\Repo\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net7.0\Tarker.Booking.Common.pdb
+C:\aHenao\Apis\Net 8\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net7.0\Tarker.Booking.Application.deps.json
+C:\aHenao\Apis\Net 8\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net7.0\Tarker.Booking.Application.dll
+C:\aHenao\Apis\Net 8\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net7.0\Tarker.Booking.Application.pdb
+C:\aHenao\Apis\Net 8\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net7.0\Tarker.Booking.Common.dll
+C:\aHenao\Apis\Net 8\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net7.0\Tarker.Booking.Domain.dll
+C:\aHenao\Apis\Net 8\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net7.0\Tarker.Booking.Common.pdb
+C:\aHenao\Apis\Net 8\Tarker.Booking\src\Tarker.Booking.Application\bin\Debug\net7.0\Tarker.Booking.Domain.pdb
+C:\aHenao\Apis\Net 8\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\Tarker.Booking.Application.csproj.AssemblyReference.cache
+C:\aHenao\Apis\Net 8\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\Tarker.Booking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\aHenao\Apis\Net 8\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\Tarker.Booking.Application.AssemblyInfoInputs.cache
+C:\aHenao\Apis\Net 8\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\Tarker.Booking.Application.AssemblyInfo.cs
+C:\aHenao\Apis\Net 8\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\Tarker.Booking.Application.csproj.CoreCompileInputs.cache
+C:\aHenao\Apis\Net 8\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\Tarker.B.B4BD57CB.Up2Date
+C:\aHenao\Apis\Net 8\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\Tarker.Booking.Application.dll
+C:\aHenao\Apis\Net 8\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\refint\Tarker.Booking.Application.dll
+C:\aHenao\Apis\Net 8\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\Tarker.Booking.Application.pdb
+C:\aHenao\Apis\Net 8\Tarker.Booking\src\Tarker.Booking.Application\obj\Debug\net7.0\ref\Tarker.Booking.Application.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TWuJHtA98UtT8MW/ecmb8evUWcocg5I9K9SqR5GRnyacdqK0dnNHIPZFoQgvbYjvo+sAfAQdmXjrOTNT9NBhTQ==",
+  "success": true,
+  "projectFilePath": "C:\\aHenao\\Apis\\Net 8\\Tarker.Booking\\src\\Tarker.Booking.Common\\Tarker.Booking.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ahena\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
